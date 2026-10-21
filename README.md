@@ -1,36 +1,20 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+﻿# Mbale Heroes FC - 64 Years Pride of the East
+Est. early 1960s as Gangama United. 2x Uganda Cup 1976 & 1999. Mbale Municipal 10K.
 
-## Getting Started
+## Tech
+Next.js 14 - Tailwind - Blue White #114b8d - Gold #facc15
 
-First, run the development server:
+## Pages
+- / - Home
+- /team - 16 players + 6 staff
+- /fixtures - 6 fixtures + results
+- /news - 12 stories 1960-2025
+- /shop - 26 products
+- /club - Full history 1960-2025
+- /tickets - Mbale Municipal 10K
 
-```bash
+## Setup
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Built by TDev - WhatsApp +256700568634 - Logo /logo.png - Dev logo /tdev.png
